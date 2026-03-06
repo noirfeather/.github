@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security reporting
+    url: https://github.com/NOIRFEATHER/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities using the responsible disclosure process.
+  - name: Organization profile
+    url: https://github.com/NOIRFEATHER
+    about: Review governance and communication standards before opening requests.
