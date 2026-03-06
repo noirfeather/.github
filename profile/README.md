@@ -2,6 +2,14 @@
 
 NOIRFEATHER is a multinational holding focused on disciplined execution, secure operations, and long-term value creation.
 
+## GitHub About Metadata
+
+Use the following values in GitHub Organization Settings > Profile:
+
+- Description: `Multinational holding for secure digital ventures across the US, Colombia, and the EU.`
+- Website: `https://github.com/NOIRFEATHER`
+- Topics: `holding`, `enterprise`, `governance`, `cybersecurity`, `compliance`, `documentation`, `multinational`, `usa`, `colombia`, `europe`
+
 ## Our Companies
 
 - `NOIRFEATHER L.L.C.` (United States): official documentation in English.
